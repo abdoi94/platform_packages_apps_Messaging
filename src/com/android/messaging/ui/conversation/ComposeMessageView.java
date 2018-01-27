@@ -70,7 +70,7 @@ import com.android.messaging.util.MediaUtil;
 import com.android.messaging.util.OsUtil;
 import com.android.messaging.util.UiUtils;
 
-import org.lineageos.messaging.util.PrefsUtils;
+import com.aosip.messaging.util.PrefsUtils;
 
 import java.util.Collection;
 import java.util.List;
