@@ -22,8 +22,8 @@
   <!-- Shortcuts -->
   <string name="shortcuts_compose_new">Neue Nachricht</string>
   <!-- Show emoticons -->
-  <string name="show_emoticons_pref_title">Emojis access</string>
-  <string name="show_emoticons_pref_summary">Show the emoji key on the keyboard</string>
+  <string name="show_emoticons_pref_title">Zugriff auf Emojis</string>
+  <string name="show_emoticons_pref_summary">Emoji-Taste auf der Tastatur anzeigen</string>
   <!-- Audio Library Tab for MMS attachments -->
   <string name="mediapicker_galleryChooserDescription_cm">Bilder oder Videos von diesem Gerät auswählen</string>
   <string name="mediapicker_audioListChooserDescription">Audio-Dateien von diesem Gerät auswählen</string>
