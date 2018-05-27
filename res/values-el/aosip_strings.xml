@@ -23,7 +23,7 @@
   <string name="shortcuts_compose_new">Νέο μήνυμα</string>
   <!-- Show emoticons -->
   <string name="show_emoticons_pref_title">Πρόσβαση στα Emojis</string>
-  <string name="show_emoticons_pref_summary">Εμφάνιση πλήκτρων emoji στο πληκτρολόγιο</string>
+  <string name="show_emoticons_pref_summary">Εμφάνιση πλήκτρου emoji στο πληκτρολόγιο</string>
   <!-- Audio Library Tab for MMS attachments -->
   <string name="mediapicker_galleryChooserDescription_cm">Επιλέξτε εικόνες ή βίντεο από αυτή την συσκευή</string>
   <string name="mediapicker_audioListChooserDescription">Επιλέξτε αρχεία ήχου από αυτήν τη συσκευή</string>
