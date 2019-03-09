@@ -32,4 +32,8 @@
     <string name="show_emoticons_pref_summary">키보드에 이모티콘 키를 표시합니다</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">새 메시지</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_messages_title">Messages</string>
 </resources>

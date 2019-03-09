@@ -32,4 +32,8 @@
     <string name="show_emoticons_pref_summary">在鍵盤上顯示表情符號按鍵</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">新訊息</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_messages_title">Messages</string>
 </resources>

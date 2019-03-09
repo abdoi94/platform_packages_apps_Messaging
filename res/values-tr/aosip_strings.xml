@@ -32,4 +32,8 @@
     <string name="show_emoticons_pref_summary">Klavyede ifadeler simgesini göster</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Yeni mesaj</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_messages_title">Messages</string>
 </resources>

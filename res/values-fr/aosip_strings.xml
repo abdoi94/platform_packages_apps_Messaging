@@ -32,4 +32,8 @@
     <string name="show_emoticons_pref_summary">Afficher la touche émoticônes sur le clavier</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Nouveau message</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_messages_title">Messages</string>
 </resources>

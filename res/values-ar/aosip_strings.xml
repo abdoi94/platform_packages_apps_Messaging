@@ -32,4 +32,8 @@
     <string name="show_emoticons_pref_summary">إظهار مفتاح الرموز التعبيرية على لوحة المفاتيح</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">رسالة جديدة</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_messages_title">Messages</string>
 </resources>

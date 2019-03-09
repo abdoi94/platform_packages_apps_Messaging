@@ -32,4 +32,8 @@
     <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Nová správa</string>
+    <!-- Mark message as read -->
+    <string name="notification_mark_as_read">Mark as read</string>
+    <!-- Notification channel -->
+    <string name="notification_channel_messages_title">Messages</string>
 </resources>
