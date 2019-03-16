@@ -33,7 +33,7 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">رسالة جديدة</string>
     <!-- Mark message as read -->
-    <string name="notification_mark_as_read">Mark as read</string>
+    <string name="notification_mark_as_read">تاشير كمقروء</string>
     <!-- Notification channel -->
-    <string name="notification_channel_messages_title">Messages</string>
+    <string name="notification_channel_messages_title">الرسائل</string>
 </resources>
