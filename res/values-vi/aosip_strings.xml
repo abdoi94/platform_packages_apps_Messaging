@@ -17,23 +17,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Video and audio attachments -->
-    <string name="mediapicker_galleryChooserDescription_custom">Choose images or videos from this device</string>
-    <string name="mediapicker_audioListChooserDescription">Choose audio files from this device</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Can\'t attach video. Max message size exceeded.</string>
-    <string name="mediapicker_audio_list_title">Choose audio</string>
-    <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
-    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+    <string name="mediapicker_galleryChooserDescription_custom">Chọn ảnh hoặc video từ thiết bị này</string>
+    <string name="mediapicker_audioListChooserDescription">Chọn tệp âm thanh từ thiết bị này</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Không thể đính kèm video vì vượt quá kích thước tối đa.</string>
+    <string name="mediapicker_audio_list_title">Chọn tệp âm thanh</string>
+    <string name="mediapicker_audio_list_item_selected_content_description">Tệp âm thanh được chọn.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Tệp âm thanh không được chọn.</string>
+    <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> đã được chọn</string>
     <!-- Swipe to delete conversation -->
-    <string name="swipe_to_delete_conversation_pref_title">Swipe to delete</string>
-    <string name="swipe_to_delete_conversation_pref_summary">Swipe to the right to delete a conversation</string>
+    <string name="swipe_to_delete_conversation_pref_title">Vuốt để xoá</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Vuốt sang phải để xoá môt cuộc hội thoại</string>
     <!-- Show emoticons -->
-    <string name="show_emoticons_pref_title">Emoticons access</string>
-    <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
+    <string name="show_emoticons_pref_title">Truy cập vào biểu tượng cảm xúc</string>
+    <string name="show_emoticons_pref_summary">Hiển thị phím biểu tượng cảm xúc trên bàn phím</string>
     <!-- Shortcuts -->
-    <string name="shortcuts_compose_new">New message</string>
+    <string name="shortcuts_compose_new">Tin nhắn mới</string>
     <!-- Mark message as read -->
-    <string name="notification_mark_as_read">Mark as read</string>
+    <string name="notification_mark_as_read">Đánh dấu là đã đọc</string>
     <!-- Notification channel -->
-    <string name="notification_channel_messages_title">Messages</string>
+    <string name="notification_channel_messages_title">Tin nhắn</string>
 </resources>
