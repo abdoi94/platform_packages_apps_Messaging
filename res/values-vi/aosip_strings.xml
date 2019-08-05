@@ -19,10 +19,10 @@
     <!-- Video and audio attachments -->
     <string name="mediapicker_galleryChooserDescription_custom">Chọn ảnh hoặc video từ thiết bị này</string>
     <string name="mediapicker_audioListChooserDescription">Chọn tệp âm thanh từ thiết bị này</string>
-    <string name="mediapicker_gallery_image_item_attachment_too_large">Không thể đính kèm video vì vượt quá kích thước tối đa.</string>
+    <string name="mediapicker_gallery_image_item_attachment_too_large">Không thể đính kèm video. Đã vượt quá kích thước tối đa.</string>
     <string name="mediapicker_audio_list_title">Chọn tệp âm thanh</string>
     <string name="mediapicker_audio_list_item_selected_content_description">Tệp âm thanh được chọn.</string>
-    <string name="mediapicker_audio_list_item_unselected_content_description">Tệp âm thanh không được chọn.</string>
+    <string name="mediapicker_audio_list_item_unselected_content_description">Âm thanh không được chọn.</string>
     <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> đã được chọn</string>
     <!-- Swipe to delete conversation -->
     <string name="swipe_to_delete_conversation_pref_title">Vuốt để xoá</string>

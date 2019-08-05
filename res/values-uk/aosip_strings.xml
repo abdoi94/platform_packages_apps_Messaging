@@ -33,7 +33,7 @@
     <!-- Shortcuts -->
     <string name="shortcuts_compose_new">Нове повідомлення</string>
     <!-- Mark message as read -->
-    <string name="notification_mark_as_read">Mark as read</string>
+    <string name="notification_mark_as_read">Позначити як прочитане</string>
     <!-- Notification channel -->
-    <string name="notification_channel_messages_title">Messages</string>
+    <string name="notification_channel_messages_title">Повідомлення</string>
 </resources>
